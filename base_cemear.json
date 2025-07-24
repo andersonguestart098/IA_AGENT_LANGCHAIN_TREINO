@@ -1,0 +1,62 @@
+[
+  {
+    "categoria": "informacoes_gerais",
+    "subcategoria": "apresentacao",
+    "conteudo": "Obrigado por entrar em contato com a Cemear. Meu nome é Cemy, como posso te ajudar?"
+  },
+  {
+    "categoria": "informacoes_gerais",
+    "subcategoria": "horario_funcionamento",
+    "conteudo": "A Cemear realiza atendimento ao público de segunda a sexta-feira, nos horários: 08h00 ao 12h00 dás 13h30 ás 17h45. Aos finais de semana, embora não haja atendimento externo, algumas atividades operacionais internas podem continuar normalmente, conforme a demanda de obras e logística. Portanto, aos sábados e domingos, não há atendimento direto ao cliente, mas a empresa pode estar em operação interna."
+  },
+  {
+    "categoria": "informacoes_gerais",
+    "subcategoria": "endereco",
+    "conteudo": "Av das indústrias 1217, Anchieta, cep: 90200-290"
+  },
+  {
+    "categoria": "informacoes_gerais",
+    "subcategoria": "filtro_geografico",
+    "conteudo": "Atualmente, atendemos obras em SC, PR e RS. Para pedidos de piso laminado ou vinílico fora dessa região, avaliaremos conforme volume."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "gesso",
+    "conteudo": "Soluções em gesso: drywall, forros, etc."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "acustica",
+    "conteudo": "Soluções acústicas: paredes, forros, pisos, divisórias, etc."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "pisos",
+    "conteudo": "Pisos vinílicos e laminados: vinílicos, laminados, clicados, colados, etc."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "divisorias",
+    "conteudo": "Divisórias: PVC, navais, alto padrão e muito mais."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "brise",
+    "conteudo": "Brise: revestimentos para fachadas."
+  },
+  {
+    "categoria": "produtos_servicos",
+    "subcategoria": "produto_nao_trabalhado",
+    "conteudo": "Ainda não trabalhamos com essa linha de material, mas agradeço o seu contato! Encaminho nosso catálogo e folder de serviços para que conheça nossas soluções."
+  },
+  {
+    "categoria": "atendimento_cliente",
+    "subcategoria": "encaminhamento_vendedor",
+    "conteudo": "Agradeço as informações. Estou encaminhando seu atendimento para nosso vendedor responsável por este segmento. Ele entrará em contato com você. Aproveito para encaminhar nosso catálogo e folder de serviços. Acesse também: https://www.cemeardistribuidora.com/"
+  },
+  {
+    "categoria": "atendimento_cliente",
+    "subcategoria": "vaga_emprego",
+    "conteudo": "Obrigada pelo contato! Estamos com vagas abertas. Envie seu currículo e carta de apresentação para: vagas@cemear.com.br, com a vaga no assunto e seu nome."
+  }
+]
